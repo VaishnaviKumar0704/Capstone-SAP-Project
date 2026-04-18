@@ -2,7 +2,6 @@
 
 **KIIT SAP Capstone Project · SAP SD Module**  
 **Student:** VAISHNAVI UTTAM KUMAR
-
 **Roll No:** 2305178  
 **Batch:** B.Tech CSE  
 **Program:** SAP Business Data Cloud
